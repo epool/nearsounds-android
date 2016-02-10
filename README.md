@@ -14,7 +14,7 @@ Some times you travel with friends in some of their personal cars and everybody 
 Build an Android application that creates a local network using WifiDirect allowing people to play audio files(.mp3) from their android phones to one specific device(server) in the local network, this last acting as the music speaker of all the network devices.
 
 ###Goal for the prototype
-Create a local network with 2 android devices and play music in one specific device from the two devices in the local network.
+Build an Android application that allows to create a local network with 2 android devices and play music in one specific device(the Media Player/Speaker) from the two devices in the local network.
 
 ## User Description
-People who want to share their music in a specific speaker(car, stereo, ...).
+People who want to share their music in a specific speaker(car, stereo, ...) usually in parties and road trips.
