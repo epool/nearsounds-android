@@ -5,7 +5,7 @@
 - [User Description](#user-description)
 
 ## Executive Summary
-Share music between friends to avoid boring music playlist in trips or parties.
+Share music between friends/nearsoftians to avoid boring music playlist in trips, parties or on your way in the Saul's Van.
 
 ###The problem
 Some times you travel with friends in some of their personal cars and everybody want to listen their favorite music in the car speakers, but along all the travel the car owner just play his favorite music and the passengers get bored and the trip is not funny enough for all.
